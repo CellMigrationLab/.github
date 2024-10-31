@@ -37,6 +37,14 @@ At the Cell Migration Lab, we're committed to open science principles. When poss
 
 If you are interested in our deep learning models and training datasets, check our [Model Zoo](https://github.com/CellMigrationLab/ModelZoo).
 
+## Training
+
+At the Cell Migration Lab, we also provide training in several topics in image analysis including tools developed in the lab. Here are some trainings provided:
+
+[Workshop in I2K 2024 "Object Tracking and Track Analysis using TrackMate and CellTracksColab](https://github.com/CellMigrationLab/I2K_2024)
+
+[Bioimage Analysis for Quantitative Microscopy course](https://github.com/CellMigrationLab/Course-Image-analysis-2024)
+
 ## Join Us
 Motivated students are always welcome to contact us!
 
