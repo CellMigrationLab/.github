@@ -49,7 +49,7 @@ At the Cell Migration Lab, we also provide training in several topics in image a
 Motivated students are always welcome to contact us!
 
 ## Stay Connected
-Visit our [website](https://cellmig.org/) for more insights, or follow us on [Twitter](https://twitter.com/guijacquemet).
+Visit our [website](https://cellmig.org/) for more insights, or follow us on [Bluesky](https://bsky.app/profile/guijacquemet.bsky.social).
 
 ## Contact Us
 For software, dataset queries, or collaborations, please feel free to contact us.
