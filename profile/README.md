@@ -15,14 +15,15 @@ Discover our recent findings and publications: [Research](https://cellmig.org/fe
 
 ## [Software Projects](https://cellmig.org/software/)
 
-At the Cell Migration Lab, we develop, co-develop and contribute (in various ways) to various innovative software projects to analyze microscopy images. Below are some of the key software projects we have been involved with:
+At the Cell Migration Lab, we develop, co-develop, and contribute (in various ways) to various innovative software projects to analyze microscopy images. Below are some of the key software projects we have been involved with:
 
-- **SReD**: Structural Repetition Detector Plugin for ImageJ and Fiji [GitHub](https://github.com/HenriquesLab/SReD)
-- **PhotoFiTT (2024)**: Phototoxicity Fitness Time Trial. A Quantitative Framework for Assessing Phototoxicity in Live-Cell. [GitHub](https://github.com/HenriquesLab/PhotoFiTT)
+- **rxiv-maker (2025)**: a GitHub-native framework that converts markdown into a publication-ready PDF [GitHub](https://github.com/HenriquesLab/rxiv-maker)
+- **SReD (2025)**: Structural Repetition Detector Plugin for ImageJ and Fiji [GitHub](https://github.com/HenriquesLab/SReD)
+- **PhotoFiTT (2024)**: Phototoxicity Fitness Time Trial. A Quantitative Framework for Assessing Phototoxicity in Live-Cells. [GitHub](https://github.com/HenriquesLab/PhotoFiTT)
 - **CellTracksColab (2024)**: A platform for compiling, analyzing, and exploring tracking data. [GitHub](https://github.com/guijacquemet/CellTracksColab)
 - **NanoPyx (2024)**: A library for analyzing light microscopy and super-resolution data, successor to NanoJ. [GitHub](https://github.com/HenriquesLab/NanoPyx)
 - **DL4MicEverywhere (2024)**: An extension of ZeroCostDL4Mic featuring interactive Jupyter notebooks for bioimage analysis using deep learning. [GitHub](https://github.com/HenriquesLab/DL4MicEverywhere)
-- **eSRRF (2023)**: Provides super-resolution approach and optimal parameter prediction for super-resolution microscopy. [GitHub](https://github.com/HenriquesLab/NanoJ-eSRRF)
+- **eSRRF (2023)**: Provides a super-resolution approach and optimal parameter prediction for super-resolution microscopy. [GitHub](https://github.com/HenriquesLab/NanoJ-eSRRF)
 - **Fast4DReg (2023)**: A Fiji plugin for 2D and 3D video drift correction in all axes. [GitHub](https://github.com/guijacquemet/Fast4DReg)
 - **TrackMate (2022)**: Automated tracking software analyzing bioimages, distributed as a Fiji plugin. [GitHub](https://github.com/trackmate-sc/TrackMate)
 - **ZeroCostDL4Mic (2021)**: Allows the use of popular deep-learning neural networks for tasks in bioimage analysis. [GitHub](https://github.com/HenriquesLab/ZeroCostDL4Mic)
