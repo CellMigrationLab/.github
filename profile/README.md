@@ -19,7 +19,7 @@ Discover our recent findings and publications: [Research](https://cellmig.org/fe
 
 At the Cell Migration Lab, we develop, co-develop, and contribute (in various ways) to various innovative software projects to analyze microscopy images. Below are some of the key software projects we have been involved with:
 
-- **rxiv-maker (2025)**: a GitHub-native framework that converts markdown into a publication-ready PDF [GitHub](https://github.com/HenriquesLab/rxiv-maker)
+- **rxiv-maker (2025)**: a toolbox that converts markdown into a publication-ready PDF [GitHub](https://github.com/HenriquesLab/rxiv-maker)
 - **SReD (2025)**: Structural Repetition Detector Plugin for ImageJ and Fiji [GitHub](https://github.com/HenriquesLab/SReD)
 - **PhotoFiTT (2024)**: Phototoxicity Fitness Time Trial. A Quantitative Framework for Assessing Phototoxicity in Live-Cells. [GitHub](https://github.com/HenriquesLab/PhotoFiTT)
 - **CellTracksColab (2024)**: A platform for compiling, analyzing, and exploring tracking data. [GitHub](https://github.com/guijacquemet/CellTracksColab)
