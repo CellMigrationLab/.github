@@ -12,6 +12,8 @@ The cell migration lab is located in Turku, Finland. The lab started in 2019 and
 ## [Latest Research](https://cellmig.org/featured-research/)
 Discover our recent findings and publications: [Research](https://cellmig.org/featured-research/).
 
+## Hardware Projects
+- **Mold for Zebrafish embryo (2025)**: Customizable FDM-based zebrafish embryo mold for live imaging [GitHub](https://github.com/CellMigrationLab/zebrafish-FDM-molds)
 
 ## [Software Projects](https://cellmig.org/software/)
 
