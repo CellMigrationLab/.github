@@ -7,7 +7,7 @@
 Welcome to the GitHub repository of the [Cell Migration Lab](https://cellmig.org/)! Our lab is dedicated to understanding cell migration, focusing on cancer research. We also develop image analysis tools to advance this field.
 
 ## About us
-The cell migration lab is located in Turku, Finland. The lab started in 2019 and is part of the Cell Biology department at [Åbo Akademi University](https://www.abo.fi/en/). We are part of the Solution for Health research profile and [INFLAMES Flagship](https://inflames.utu.fi/). We are affiliated with [Turku Bioscience Centre](https://bioscience.fi/) and use their core facilities for our research.
+The cell migration lab is located in Turku, Finland. The lab started in 2019 and is part of the Cell Biology department at [Åbo Akademi University](https://www.abo.fi/en/). We are part of [Turku Bioscience Centre](https://bioscience.fi/), the [IMMENs Centre of Excellence](https://www.helsinki.fi/en/researchgroups/immune-endothelial-interfaces) and the [INFLAMES Flagship](https://inflames.utu.fi/). 
 
 ## [Latest Research](https://cellmig.org/featured-research/)
 Discover our recent findings and publications: [Research](https://cellmig.org/featured-research/).
