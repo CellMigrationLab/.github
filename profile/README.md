@@ -19,6 +19,7 @@ Discover our recent findings and publications: [Research](https://cellmig.org/fe
 
 At the Cell Migration Lab, we develop, co-develop, and contribute (in various ways) to various innovative software projects to analyze microscopy images. Below are some of the key software projects we have been involved with:
 
+- **LabConstrictor (2026)**: From Jupyter Notebook to Desktop App in One Click [GitHub](https://github.com/CellMigrationLab/LabConstrictor)
 - **EZInput (2026)**: a Python library that simplifies the creation of graphical user interfaces [GitHub](https://github.com/HenriquesLab/EZInput)
 - **rxiv-maker (2025)**: a toolbox that converts markdown into a publication-ready PDF [GitHub](https://github.com/HenriquesLab/rxiv-maker)
 - **SReD (2025)**: Structural Repetition Detector Plugin for ImageJ and Fiji [GitHub](https://github.com/HenriquesLab/SReD)
