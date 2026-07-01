@@ -19,6 +19,7 @@ Discover our recent findings and publications: [Research](https://cellmig.org/fe
 
 At the Cell Migration Lab, we develop, co-develop, and contribute (in various ways) to various innovative software projects to analyze microscopy images. Below are some of the key software projects we have been involved with:
 
+- **NucleiSky (2026)**: Image registration and ROI matching for microscopy images using nuclei constellations [GitHub](https://github.com/CellMigrationLab/NucleiSky)
 - **LabConstrictor (2026)**: From Jupyter Notebook to Desktop App in One Click [GitHub](https://github.com/CellMigrationLab/LabConstrictor)
 - **EZInput (2026)**: a Python library that simplifies the creation of graphical user interfaces [GitHub](https://github.com/HenriquesLab/EZInput)
 - **rxiv-maker (2025)**: a toolbox that converts markdown into a publication-ready PDF [GitHub](https://github.com/HenriquesLab/rxiv-maker)
