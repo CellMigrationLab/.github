@@ -41,8 +41,6 @@ For more details on each project, visit our [software page](https://cellmig.org/
 ## [Open Data](https://cellmig.org/datasets/)
 At the Cell Migration Lab, we're committed to open science principles. When possible, our research datasets are made publicly available to catalyse further scientific discovery and collaboration. Our open data collection currently lists 69 datasets. Browse them on our [datasets page](https://cellmig.org/datasets/).
 
-If you are interested in our deep learning models and training datasets, check our [Model Zoo](https://github.com/CellMigrationLab/ModelZoo).
-
 ## Training
 
 At the Cell Migration Lab, we also provide training in several topics in image analysis including tools developed in the lab. Here are some trainings provided:
