@@ -23,7 +23,7 @@ At the Cell Migration Lab, we develop, co-develop, and contribute to software fo
 - **LabConstrictor (2026)**: From Jupyter Notebook to Desktop App in One Click [Paper](https://doi.org/10.48550/arXiv.2603.10704) · [GitHub](https://github.com/CellMigrationLab/LabConstrictor)
 - **EZInput (2026)**: a Python library that simplifies the creation of graphical user interfaces [Paper](https://doi.org/10.48550/arXiv.2601.08859) · [GitHub](https://github.com/HenriquesLab/EZInput)
 - **SReD (2025)**: Structural Repetition Detector Plugin for ImageJ and Fiji [Paper](https://doi.org/10.1038/s41467-025-60709-1) · [GitHub](https://github.com/HenriquesLab/SReD)
-- **Rxiv-Maker (2025)**: a toolbox that converts markdown into a publication-ready PDF [Paper](https://doi.org/10.1242/jcs.265183) · [GitHub](https://github.com/HenriquesLab/rxiv-maker)
+- **Rxiv-Maker (2025)**: Write scientific manuscripts in Markdown and export formatted PDF or editable Word documents [Paper](https://doi.org/10.1242/jcs.265183) · [GitHub](https://github.com/HenriquesLab/rxiv-maker)
 - **PhotoFiTT (2024)**: Phototoxicity Fitness Time Trial. A Quantitative Framework for Assessing Phototoxicity in Live-Cells. [Paper](https://doi.org/10.1038/s41467-025-66209-6) · [GitHub](https://github.com/HenriquesLab/PhotoFiTT)
 - **NanoPyx (2024)**: A library for analyzing light microscopy and super-resolution data, successor to NanoJ. [Paper](https://doi.org/10.1038/s41592-024-02562-6) · [GitHub](https://github.com/HenriquesLab/NanoPyx)
 - **DL4MicEverywhere (2024)**: An extension of ZeroCostDL4Mic featuring interactive Jupyter notebooks for bioimage analysis using deep learning. [Paper](https://doi.org/10.1038/s41592-024-02295-6) · [GitHub](https://github.com/HenriquesLab/DL4MicEverywhere)
