@@ -40,7 +40,7 @@ At the Cell Migration Lab, we develop, co-develop, and contribute to software fo
 For more details on each project, visit our [software page](https://cellmig.org/software/).
 
 ## [Open Data](https://cellmig.org/datasets/)
-At the Cell Migration Lab, we're committed to open science principles. When possible, our research datasets are made publicly available to catalyse further scientific discovery and collaboration. Our open data collection currently lists 69 datasets. Browse them on our [datasets page](https://cellmig.org/datasets/).
+At the Cell Migration Lab, we're committed to open science principles. When possible, our research datasets are made publicly available to catalyse further scientific discovery and collaboration. Our open data collection currently lists 70 datasets. Browse them on our [datasets page](https://cellmig.org/datasets/).
 
 ## Training
 
