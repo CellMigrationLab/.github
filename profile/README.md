@@ -19,6 +19,7 @@ Discover our recent findings and publications: [Research](https://cellmig.org/fe
 
 At the Cell Migration Lab, we develop, co-develop, and contribute to software for microscopy and image analysis.
 
+- **mapping-bioimage-software (2026)**: Data and code for mapping bioimage-analysis software adoption across the microscopy literature. [Paper](https://doi.org/10.64898/2026.10.21.760457) · [GitHub](https://github.com/HenriquesLab/mapping-bioimage-software)
 - **NucleiSky (2026)**: Image registration and ROI matching for microscopy images using nuclei constellations. [Paper](https://doi.org/10.64898/2026.06.29.735028) · [GitHub](https://github.com/CellMigrationLab/NucleiSky)
 - **LabConstrictor (2026)**: From Jupyter Notebook to Desktop App in One Click [Paper](https://doi.org/10.48550/arXiv.2603.10704) · [GitHub](https://github.com/CellMigrationLab/LabConstrictor)
 - **EZInput (2026)**: a Python library that simplifies the creation of graphical user interfaces [Paper](https://doi.org/10.48550/arXiv.2601.08859) · [GitHub](https://github.com/HenriquesLab/EZInput)
